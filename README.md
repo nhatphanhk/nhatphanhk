@@ -2,8 +2,6 @@
 
 ## 🚀 About Me
 - Just normal person want to coding. Learing new things. 🔆
-
-- 🔭 Currently working on FPT Software
 - 🌱 Learning Web
 
 ## 🛠️ Skills & Technologies
