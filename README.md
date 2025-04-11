@@ -1,23 +1,15 @@
-## Hi there 👋
-
-# 👋 Hi there! I'm [Your Name]
+# 👋 Hi there! I'm Nhat (Can call me Daniel)
 
 ## 🚀 About Me
 [A brief introduction about yourself - your professional background, interests, and what drives you]
 
-- 🔭 Currently working on [Current Project/Job]
-- 🌱 Learning [Current Skills/Technologies]
-- 💬 Ask me about [Areas of Expertise]
-- 📫 How to reach me: [Contact Information]
+- 🔭 Currently working on FPT Software
+- 🌱 Learning Web
 
 ## 🛠️ Skills & Technologies
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 <!-- Add more technology badges as needed -->
-
-## 📊 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact)
 
 ## 🏆 Achievements
 - [Major Achievement 1]
